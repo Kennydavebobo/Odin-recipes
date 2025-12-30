@@ -1,0 +1,27 @@
+.both {
+  font-size: 28px;
+  font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+#yellow {
+  background-color: yellow;
+}
+
+#black {
+  background-color: black;
+  color: white;
+}
+
+.avatar.proportined {
+  height: auto;
+  width: 300px;
+}
+
+.avatar.distorted {
+  height: 400px;
+  width: 200px;
+}
+
+.subsection.header {
+  color: red;
+}
